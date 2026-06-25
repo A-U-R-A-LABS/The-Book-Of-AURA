@@ -1,2 +1,1 @@
-# The-Book-Of-AURA
-The official handbook, philosophy, and long-term vision of AURA.
+"We are not building software first. We are building a company that knows how to build great software."
