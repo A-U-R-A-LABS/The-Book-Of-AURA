@@ -26,6 +26,24 @@ A research activity is valuable only when it increases understanding or improves
 
 ---
 
+## Knowledge as a Strategic Asset
+
+At AURA, knowledge is one of our most valuable long-term assets.
+
+Every research paper studied,
+every experiment conducted,
+every engineering lesson learned, and
+every product insight contributes to our collective knowledge.
+
+Products evolve.
+
+Technologies change.
+
+Knowledge compounds.
+
+For this reason, AURA documents, preserves, and continuously expands its knowledge to strengthen future products and decisions.
+
+
 # Research Principles
 
 ## 1. Problem-Driven Research
