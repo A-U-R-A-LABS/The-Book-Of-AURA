@@ -130,6 +130,25 @@ Protect the reputation of AURA.
 
 ---
 
+## Strategic Investment Priorities
+
+AURA views investment as a long-term commitment to its mission rather than a short-term financial decision.
+
+As the company grows, Research & Development (R&D) will remain one of AURA's highest strategic investment priorities.
+
+We invest in:
+
+* Research & Innovation
+* Engineering Excellence
+* Product Development
+* Knowledge Creation
+* Long-term Technology
+
+Investment levels may evolve, but our commitment to innovation will remain constant.
+
+We prioritize long-term impact over short-term gains.
+
+
 # Success Metrics
 
 We measure success by:
