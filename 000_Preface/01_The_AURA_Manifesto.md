@@ -1,1 +1,13 @@
-
+Research
+      ↓
+Knowledge
+      ↓
+Engineering
+      ↓
+Product
+      ↓
+Customer
+      ↓
+Feedback
+      ↓
+Research
