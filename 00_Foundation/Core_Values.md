@@ -51,3 +51,23 @@ We keep improving.
 Success is measured by the value we create.
 
 If our work helps people make better decisions and improves their lives, we have succeeded.
+
+---
+
+The AURA Way
+
+The AURA Way is how we learn, think, build, and grow.
+
+Learn Deeply.
+
+Think Clearly.
+
+Build Responsibly.
+
+Improve Continuously.
+
+These are not goals.
+
+They are habits.
+
+They define who we are.
