@@ -163,6 +163,54 @@ Every decision should make AURA stronger than yesterday.
 
 ---
 
+# Engineering Enemies
+
+Great engineering is not only about following good practices.
+
+It is also about recognizing the habits that destroy engineering quality.
+
+At AURA, we continuously fight against:
+
+## Ignorance
+
+Knowledge gaps are expected.
+
+Refusing to learn is not.
+
+---
+
+## Chaos
+
+Systems fail when there is no structure.
+
+We replace chaos with discipline, documentation, and repeatable processes.
+
+---
+
+## Assumptions
+
+We validate ideas with evidence.
+
+We measure before making conclusions.
+
+---
+
+## Pride
+
+Confidence is valuable.
+
+Arrogance is dangerous.
+
+We remain humble enough to question our own decisions.
+
+---
+
+## Rush
+
+Fast delivery should never compromise reliability, safety, or long-term maintainability.
+
+---
+
 Review Frequency: Every 12 months
 
 Owner: Engineering Leadership
