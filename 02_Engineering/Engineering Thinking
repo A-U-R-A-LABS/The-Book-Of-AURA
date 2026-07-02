@@ -1,0 +1,11 @@
+Every important decision should answer:
+
+1. Why are we building it?
+
+2. Is this the simplest solution?
+
+3. Can someone else maintain it?
+
+4. Will this design still work after five years?
+
+5. Can we explain it?
