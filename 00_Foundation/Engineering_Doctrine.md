@@ -17,3 +17,6 @@ the spatial and temporal distribution must also be modeled.
 
 Principle 19
 A model must define its system boundary before defining its equations.
+
+Priciple 20
+Do not design using total capacity. Design using usable capacity.
