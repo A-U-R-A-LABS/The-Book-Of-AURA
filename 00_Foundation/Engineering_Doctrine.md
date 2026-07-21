@@ -20,3 +20,6 @@ A model must define its system boundary before defining its equations.
 
 Priciple 20
 Do not design using total capacity. Design using usable capacity.
+حقخ
+حقهؤ
+A control system should respond to the system's ability to function, not merely to the quantity of its resources.
